@@ -1,0 +1,15 @@
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\bin\Debug\net8.0\cs_01.exe
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\bin\Debug\net8.0\cs_01.deps.json
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\bin\Debug\net8.0\cs_01.runtimeconfig.json
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\bin\Debug\net8.0\cs_01.dll
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\bin\Debug\net8.0\cs_01.pdb
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.AssemblyInfoInputs.cache
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.AssemblyInfo.cs
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.csproj.CoreCompileInputs.cache
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.sourcelink.json
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.dll
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\refint\cs_01.dll
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.pdb
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\cs_01.genruntimeconfig.cache
+c:\Users\felip\Documents\Github\rocket_cs\cs_01\obj\Debug\net8.0\ref\cs_01.dll
